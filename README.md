@@ -7,7 +7,7 @@ This repository will be used for **C/C++ Scripts** during Hacktoberfest 2023
 ## Guidelines for contribution:
 ---
 
-1) Before contributing, make sure you have a [GitHub](https://github.com) account with a proper knowledge of Git and/or Github. Also, you are requested to visit the official website of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/resources) before contributing to the repositories.
+1) Before contributing, make sure you have a [GitHub](https://github.com) account with a proper knowledge of Git and/or Github. Also, you are requested to visit the official website of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com) before contributing to the repositories.
 
 2) Since, this repository is used for writing C/C++ Scripts, you are advised to upload your codes in **C** and/or **C++** language.
 
